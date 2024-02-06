@@ -64,7 +64,7 @@ GROUP BY hotel;
 
 Below is a line chart illustrating how booking numbers have fluctuated on a monthly basis:
 
-![Line Chart Showing Booking Trends Over Time](#booking-trend.png)
+![Line Chart Showing Booking Trends Over Time](https://github.com/clemsonexcel/Flit-Data-Science-projects/blob/main/Hotel%20Reservation%20Analysis/booking%20trend.png?raw=true)
 
 ## Results and Findings
 
