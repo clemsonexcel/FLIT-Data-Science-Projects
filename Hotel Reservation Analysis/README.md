@@ -62,13 +62,18 @@ GROUP BY hotel;
 ## Visualization and Analysis
 "Utilizing Tableau, we developed a comprehensive suite of visualizations to explore various aspects of hotel booking data, including booking trends, cancellation rates, and guest demographics. These visualizations serve as a foundation for our detailed analysis, helping us to identify key patterns and areas for further investigation."
 
-One of the core aspects of our analysis focused on understanding the booking trends over time. To visualize these trends, we employed a line chart that plots the number of bookings across different time periods. This approach allows us to observe seasonal patterns, peak booking times, and potentially identify underlying factors driving these trends.
-
 Below is a line chart illustrating how booking numbers have fluctuated on a monthly basis:
 
-![Line Chart Showing Booking Trends Over Time](booking-trend.png)
+![Line Chart Showing Booking Trends Over Time](#booking-trend.png)
 
-The chart reveals a clear pattern of seasonality in booking behavior, with peaks typically occurring during summer months and a noticeable dip in the quieter winter period. Such insights are crucial for hotel management in planning for demand, staffing, and promotional activities.
+## Results and Findings
 
+## Insights 
+
+## Recommwndations 
+
+## Detailed Report
+
+## 
 
 
