@@ -66,8 +66,7 @@ One of the core aspects of our analysis focused on understanding the booking tre
 
 Below is a line chart illustrating how booking numbers have fluctuated on a monthly basis:
 
-![Line Chart Showing Booking Trends Over Time](/images/booking_trends_line_chart.png "Monthly Booking Trends")
-![Line Chart Showing Booking Trends Over Time](#booking-trend.png)
+![Line Chart Showing Booking Trends Over Time](booking trend.png)
 
 The chart reveals a clear pattern of seasonality in booking behavior, with peaks typically occurring during summer months and a noticeable dip in the quieter winter period. Such insights are crucial for hotel management in planning for demand, staffing, and promotional activities.
 
