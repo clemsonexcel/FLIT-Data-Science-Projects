@@ -4,7 +4,7 @@ An analysis of transaction data to uncover patterns and associations between ite
 
 ## Overview
 
-This repository contains python script for performing market basket analysis usisn apriori algorithm. This project explores transactional data to identify frequent itemsets and association rules. The analysis aims to provide insights into item relationships, popular product, and potential recommendations.
+This folder contains python script for performing market basket analysis usisn apriori algorithm. This project explores transactional data to identify frequent itemsets and association rules. The analysis aims to provide insights into item relationships, popular product, and potential recommendations.
 
 ## Key Steps
 1. **Data Preparation:**
