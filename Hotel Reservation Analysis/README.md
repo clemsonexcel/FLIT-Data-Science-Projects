@@ -10,7 +10,7 @@ The Hotel Reservation Project involves the analysis of a dataset related to hote
 - [Data Source](#data-source)
 - [Data preprocessing](#data-preprocessing)
 - [Database Structure](#database-structure)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis-eda)
 - [Visualization and Analysis](#visualization-and-analysis)
 - [Insights and Recommendations](#insights-and-recommendations)
 - [Acknowledgments](#acknowledgments)
@@ -26,6 +26,11 @@ The primary dataset used for this project is an Excel dataset with two sheets. T
 - **Tableau Public:** Chosen for data visualization and creating interactive dashboards.
 
 ## Folder Structure 
+
+- **data:**  Contains the raw and processed data files.
+- **code:**  Includes Jupyter notebooks for data preprocessing and SQL queries for analysis.
+- **visualizations:**  Holds the Tableau dashboard file.
+- README.md
 
 ## Data Source
 The dataset for this project was provided as part of my Data Science Apprenticeship Program. The data consists of two sheets: one containing column descriptions and another with detailed information on reservations, bookings, guests, etc.
@@ -69,7 +74,7 @@ Below is a line chart illustrating how booking numbers have fluctuated on a mont
 
 ## Insights 
 
-## Recommwndations 
+## Recommendations 
 
 ## Detailed Report
 
