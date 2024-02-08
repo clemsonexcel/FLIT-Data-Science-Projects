@@ -13,9 +13,9 @@ Welcome to my repository of data science projects completed during my apprentice
 - [Market Basket Analysis Folder](link-to-market-basket-analysis-folder)
 
 ### 2. Hotel Reservation Analysis
-- **Objective:** Analyze customer reviews to determine the sentiment (positive, negative, neutral) towards a product.
-- **Technologies Used:** Python, NLTK, TensorFlow
-- [Sentiment Analysis Folder](link-to-sentiment-analysis-folder)
+- **Objective:** Explore dataset, identify interesting patterns and create impactful visualization.
+- **Technologies Used:** Jupyter Notebook, SQL, Tableau, 
+- [Hotel Reservation Analysis Folder](
 
 ### 2. Sentiment Analysis
 - **Objective:** Analyze customer reviews to determine the sentiment (positive, negative, neutral) towards a product.
