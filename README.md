@@ -15,7 +15,7 @@ Welcome to my repository of data science projects completed during my apprentice
 ### 2. Hotel Reservation Analysis
 - **Objective:** Explore dataset, identify interesting patterns and create impactful visualization.
 - **Technologies Used:** Jupyter Notebook, SQL, Tableau, 
-- [Hotel Reservation Analysis Folder](
+- [Hotel Reservation Analysis Folder](https://github.com/clemsonexcel/Flit-Data-Science-projects/tree/main/Hotel%20Reservation%20Analysis)
 
 ### 2. Sentiment Analysis
 - **Objective:** Analyze customer reviews to determine the sentiment (positive, negative, neutral) towards a product.
