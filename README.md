@@ -10,7 +10,7 @@ Welcome to my repository of data science projects completed during my apprentice
 ### 1. Market Basket Analysis
 - **Objective:** Identify patterns of product purchases and associations among items in a retail setting.
 - **Technologies Used:** Python, MLxtend
-- [Market Basket Analysis Folder](link-to-market-basket-analysis-folder)
+- [Market Basket Analysis Folder](https://github.com/clemsonexcel/Flit-Data-Science-projects/tree/main/Market%20Basket%20Analysis)
 
 ### 2. Hotel Reservation Analysis
 - **Objective:** Explore dataset, identify interesting patterns and create impactful visualization.
