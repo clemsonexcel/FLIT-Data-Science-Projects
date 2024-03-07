@@ -41,9 +41,9 @@ data-science-project/
 │   ├── scripts/
 │   └── README.md
 │
-├── Spam Detection/
+├── Car Insurance Analysis/
 │   ├── data/
-│   ├── models/
+│   ├── visualizations/
 │   └── README.md
 │
 |_____README.md
