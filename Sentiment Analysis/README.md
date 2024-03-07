@@ -23,7 +23,16 @@ This project utilizes Python and several of its libraries, including:
 
 ## Dataset Overview
 
-The dataset for this project consists of product reviews collected from an e-commerce platform. Each entry includes the text of the review and a star rating, ranging from 1 to 5, which reflects the customer's satisfaction with the product. Our analysis will focus on processing and classifying these reviews to gauge sentiment.
-```
+ The dataset includes product reviews, featuring the review text and a corresponding rating. Each entry includes the text of the review and a star rating, ranging from 1 to 5,which reflecst the cusomer's satisfaction with the product, among other information. Our analysis will focus o processing and classifying these reviews to guage sentiments.
 
+## Project Structure
+
+The project is structured as follows:
+1. Data Preparation: Loading the dataset and preparing it for analysis.
+2. Exploratory Data Analysis (EDA): Analyzing the dataset to uncover patterns and insights.
+3. Data Preprocessing: Preparing the text data for modeling.
+4. Sentiment Labeling: Categorizing reviews into sentiments based on ratings.
+5. Text Vectorization: Converting text data into a format suitable for machine learning.
+6. Model Building: Developing a machine learning model to classify review sentiments.
+7. Model Evaluation: Assessing the performance of our model.
 
