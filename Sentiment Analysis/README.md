@@ -36,3 +36,8 @@ The project is structured as follows:
 6. Model Building: Developing a machine learning model to classify review sentiments.
 7. Model Evaluation: Assessing the performance of our model.
 
+## Usage and Contribution
+
+Contributions are welcome!!
+
+Open and run the Jupyter Notebook book. Feel free to modify the content based on your project specifics.
