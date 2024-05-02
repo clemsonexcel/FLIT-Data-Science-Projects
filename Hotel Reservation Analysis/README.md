@@ -11,9 +11,9 @@ The Hotel Reservation Project involves the analysis of a dataset related to hote
 - [Data preprocessing](#data-preprocessing)
 - [Database Structure](#database-structure)
 - [Exploratory Data Analysis](#exploratory-data-analysis-eda)
-- [Visualization and Analysis](#visualization-and-analysis)
+- [Visualization](#visualization)
 - [Insights and Recommendations](#insights-and-recommendations)
-- [Acknowledgments](#acknowledgments)
+- [Detailed Report](#report)
 
 ## Data Overview
 The primary dataset used for this project is an Excel dataset with two sheets. The first sheet provides information and a description of column names, guiding our understanding of the dataset's structure. The second sheet is a table with 32 columns containing detailed information on reservations, bookings, guests, and related aspects. The dataset encompasses a mix of categorical, numerical, and date columns. Prior to analysis, we conducted essential preprocessing steps to ensure data quality and relevance.
@@ -65,19 +65,37 @@ GROUP BY hotel;
 ```
 
 ## Visualization and Analysis
-"Utilizing Tableau, we developed a comprehensive suite of visualizations to explore various aspects of hotel booking data, including booking trends, cancellation rates, and guest demographics. These visualizations serve as a foundation for our detailed analysis, helping us to identify key patterns and areas for further investigation."
+Utilizing Tableau, we developed a comprehensive suite of visualizations to explore various aspects of hotel booking data, including booking trends, cancellation rates, and guest demographics. These visualizations serve as a foundation for our detailed analysis, helping us to identify key patterns and areas for further investigation.
 
 Below is a line chart illustrating how booking numbers have fluctuated on a monthly basis:
 
 ![Line Chart Showing Booking Trends Over Time](https://github.com/clemsonexcel/Flit-Data-Science-projects/blob/main/Hotel%20Reservation%20Analysis/visualisation/booking%20trend.png)
-## Results and Findings
 
-## Insights 
+To provide a deeper and more interactive exploration of these findings, You are invited to visit my Tableau dashboard. Here, you can engage with the data through various visualizations that highlight the seasonal booking trends, compare cancellation rates by hotel type, and explore the relationship between lead time and cancellation probability. 
 
-## Recommendations 
+[View Tableau Dashboard](#)
+
+
+## Insights and Recommendations
+
+Through our detailed analysis of hotel booking data, we uncovered several key insights that shed light on patterns and behaviors in the hospitality industry. 
+
+- Booking Trends Over Time: We observed significant seasonal patterns, with peaks in bookings during specific months and a detailed analysis of how these trends vary between hotel types.
+- Cancellation Rates: Our analysis revealed a cancellation rate of 27.93%, with variations observed between different types of hotels and influenced by factors such as lead time and previous cancellation. 
+- Customer Behavior Insights: We identified patterns in repeat guest bookings, the impact of previous cancellations on future bookings, and preferences in room types and booking channels.
+- Geographic Patterns: The data showed trends in guest origins, highlighting both local and international booking behaviors and their correlation with market segments and booking channels.
+
+Based on these findings, the following is recommended:
+- Create loyalty programs to increase retention rate.
+- Optimize distribution channel to maximize revenue while minimizing costs.
+- Implement strategic pricing during peak booking anad cancellation periods.
+
 
 ## Detailed Report
+For those who wish to explore our findings in more detail, we have prepared a comprehensive report that delves deeper into our analysis, methodologies, and the conclusion of our insights. This report includes expanded discussions on our data preprocessing steps, a more thorough exploration of our visualizations, and a detailed breakdown of our recommendations based on the data.
 
-## 
+Read the Detailed Report Here
+
+[Read the Detailed Report Here](link-to-your-report)
 
 
