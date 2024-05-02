@@ -34,6 +34,7 @@ data-science-project/
 |    |__ data/
 |    |__ code/
 |    |__ visualisation/
+|    |__ Report
 |    |___README.md
 │
 ├── Sentiment Analysis/
