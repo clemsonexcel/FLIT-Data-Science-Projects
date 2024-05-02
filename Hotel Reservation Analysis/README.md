@@ -72,7 +72,7 @@ Below is a line chart illustrating how booking numbers have fluctuated on a mont
 ![Line Chart Showing Booking Trends Over Time](https://github.com/clemsonexcel/Flit-Data-Science-projects/blob/main/Hotel%20Reservation%20Analysis/visualisation/booking%20trend.png)
 
 Below is a bar chart showing how previous cancellations impact cancellation rate:
-![Bar chart showing cancellation rate against number of previous cancellation](link)
+![Bar chart showing cancellation rate against number of previous cancellation](https://github.com/clemsonexcel/FLIT-Data-Science-Projects/blob/main/Hotel%20Reservation%20Analysis/visualisation/cancellation.png)
 
 To provide a deeper and more interactive exploration of these findings, You are invited to visit my Tableau dashboard. Here, you can engage with the data through various visualizations that highlight the seasonal booking trends, compare cancellation rates by hotel type, and explore the relationship between lead time and cancellation probability. 
 
