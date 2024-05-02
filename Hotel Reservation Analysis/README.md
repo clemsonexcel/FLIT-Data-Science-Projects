@@ -94,6 +94,6 @@ Based on these findings, the following is recommended:
 ## Detailed Report
 For those who wish to explore our findings in more detail, we have prepared a comprehensive report that delves deeper into our analysis, methodologies, and the conclusion of our insights. This report includes expanded discussions on our data preprocessing steps, a more thorough exploration of our visualizations, and a detailed breakdown of our recommendations based on the data.
 
-[Read the Detailed Report Here](https://github.com/clemsonexcel/FLIT-Data-Science-Projects/blob/main/Hotel%20Reservation%20Analysis/Hotel%20Analysis%20Report.pdf)
+Read the Detailed Report [Here](https://github.com/clemsonexcel/FLIT-Data-Science-Projects/blob/main/Hotel%20Reservation%20Analysis/Hotel%20Analysis%20Report.pdf)
 
 
