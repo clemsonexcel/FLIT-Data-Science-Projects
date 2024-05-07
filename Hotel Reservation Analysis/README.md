@@ -73,7 +73,7 @@ Below is a line chart illustrating how booking numbers have fluctuated on a mont
 
 To provide a deeper and more interactive exploration of these findings, You are invited to visit my Tableau dashboard. Here, you can engage with the data through various visualizations that highlight the seasonal booking trends, compare cancellation rates by hotel type, and explore the relationship between lead time and cancellation probability. 
 
-[View Tableau Dashboard](#)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/excel.chukwuma/viz/HotelDashboard_17150511342730/HotelDashboard)
 
 
 ## Insights and Recommendations
