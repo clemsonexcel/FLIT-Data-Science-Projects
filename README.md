@@ -19,6 +19,16 @@ Welcome to my repository of data science projects completed during my FLIT appre
 - **Technologies Used:** 
 - [Sentiment Analysis Folder](https://github.com/clemsonexcel/Flit-Data-Science-projects/tree/main/Sentiment%20Analysis)
 
+### 4. Car Insurance Analysis
+- **Objectives** Analyzes car insuarnce data and creates insightful dashboards.
+- **Technologies** Tableau, Google data studio, Google big query
+- [Car Insurance Analysis](link)
+
+### 5. Churn Prediction 
+- **Objective** It is a classification project that trains machine learning model to predict customer churn. The project includes model deployment on Heruko allowing for real time predictions.
+- **Technologies**
+- [Customer Churn Prediction](link)
+ 
 ## Repository Structure
 
 This repository is organized into separate project directories, each focused on a specific data science project. Below is an overview of the structure for each project:
