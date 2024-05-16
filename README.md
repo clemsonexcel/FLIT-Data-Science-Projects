@@ -16,7 +16,7 @@ Welcome to my repository of data science projects completed during my FLIT appre
 
 ### 3. Sentiment Analysis
 - **Objective:** Analyze customer reviews to determine the sentiment (positive, negative, neutral) towards a product.
-- **Technologies Used:** 
+- **Technologies Used:** pandas, seaborn, matplotlib, numny, scikit-learn
 - [Sentiment Analysis Folder](https://github.com/clemsonexcel/Flit-Data-Science-projects/tree/main/Sentiment%20Analysis)
 
 ### 4. Car Insurance Analysis
@@ -26,7 +26,7 @@ Welcome to my repository of data science projects completed during my FLIT appre
 
 ### 5. Churn Prediction 
 - **Objective:** It is a classification project that trains machine learning model to predict customer churn. The project includes model deployment on Heruko allowing for real time predictions.
-- **Technologies:**
+- **Technologies:** Pandas, scikit-learn, streamlit, joblib, numpy
 - [Customer Churn Prediction](link)
  
 ## Repository Structure
