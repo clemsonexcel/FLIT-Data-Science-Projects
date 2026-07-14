@@ -3,11 +3,11 @@
 ## Project Overview
 This project analyzes hotel booking data (2015–2020) across two hotel types to uncover patterns in booking behavior, cancellations, revenue, and guest demographics. The analysis was delivered in two forms: a comprehensive written report built with SQL and Python, and a focused, interactive Power BI dashboard built for quick executive-level decision-making.
 
- **Business Question**
+ **Business Question:**
 What drives booking and cancellation behavior across hotel types, and how can that inform pricing, retention, and operational decisions, for both a deep-dive audience and a time-constrained decision-maker?
 
 ### Dataset
-Hotel reservation data spanning 2015–2020, originally sourced through a Data Science Apprenticeship Program, covering 32 columns including reservation details, guest demographics, room type, booking channel, and reservation status. Initial data spanned ~119,000+ rows before cleaning.
+Hotel reservation data spanning 2015–2020, originally sourced through the FLiT Program is an Excel filewith two sheets. The first sheet provides information and a escription of columns. The second sheet is a table covering 32 columns including reservation details, guest demographics, room type, booking channel, and reservation status. Initial data spanned ~119,000+ rows before cleaning.
 
 ## Workflow
 
