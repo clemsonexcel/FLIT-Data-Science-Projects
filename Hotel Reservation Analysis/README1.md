@@ -3,10 +3,10 @@
 ## Project Overview
 This project analyzes hotel booking data (2015–2020) across two hotel types to uncover patterns in booking behavior, cancellations, revenue, and guest demographics. The analysis was delivered in two forms: a comprehensive written report built with SQL and Python, and a focused, interactive Power BI dashboard built for quick executive-level decision-making.
 
-## Business Question
-What drives booking and cancellation behavior across hotel types, and how can that inform pricing, retention, and operational decisions — for both a deep-dive audience and a time-constrained decision-maker?
+ **Business Question**
+What drives booking and cancellation behavior across hotel types, and how can that inform pricing, retention, and operational decisions, for both a deep-dive audience and a time-constrained decision-maker?
 
-## Dataset
+### Dataset
 Hotel reservation data spanning 2015–2020, originally sourced through a Data Science Apprenticeship Program, covering 32 columns including reservation details, guest demographics, room type, booking channel, and reservation status. Initial data spanned ~119,000+ rows before cleaning.
 
 ## Workflow
@@ -30,9 +30,9 @@ Used Python (Pandas, Matplotlib, Seaborn) to build all visualizations featured i
 Built a focused Power BI dashboard answering four key executive questions directly, rather than displaying every metric from the full analysis (see Dashboard Insights below).
 
 ## Tools & Technologies
-- **MySQL** — data loading, cleaning, transformation, and analysis
-- **Python** (Pandas, Matplotlib, Seaborn) — exploratory visualization for the report
-- **Power BI** — interactive executive dashboard
+- **MySQL** : data loading, cleaning, transformation, and analysis
+- **Python** (Pandas, Matplotlib, Seaborn) : exploratory visualization for the report
+- **Power BI** : interactive executive dashboard
 - **Jupyter Notebook**
 
 ## Report Findings
@@ -52,17 +52,17 @@ Full methodology, all 13 visualizations, and complete recommendations are availa
 Rather than reproducing the full report, the Power BI dashboard was scoped around four decision-focused questions:
 
 - **How has hotel revenue changed over time?** Revenue has generally trended upward, though City hotels show steady year-over-year growth while Resort hotels show more seasonal fluctuation.
-- **Should we increase parking lot capacity?** Parking demand is low overall but spikes in peak months — a flexible parking arrangement is likely more cost-effective than permanent expansion.
+- **Should we increase parking lot capacity?** Parking demand is low overall but spikes in peak months, a flexible parking arrangement is likely more cost-effective than permanent expansion.
 - **What broader trends stand out?** Strong seasonality is evident, with higher ADR and bookings aligning with holiday periods.
-- **Are cancellations a major issue?** Yes — City hotels cancel at a notably higher rate than Resort hotels, suggesting flexible booking policies or deposit requirements could help reduce no-shows.
+- **Are cancellations a major issue?** Yes, City hotels cancel at a notably higher rate than Resort hotels, suggesting flexible booking policies or deposit requirements could help reduce no-shows.
 
 ![Power BI Dashboard](images/dashboard_screenshot.png)
 *Note: this dashboard reflects a focused subset of the full analysis, scoped for quick executive decision-making rather than comprehensive reporting.*
 
 ## Recommendations
-1. **Strengthen customer loyalty programs** — over 90% of bookings come from first-time guests; targeted retention offers could improve repeat business.
-2. **Optimize distribution channel investment** — reassess marketing spend across channels based on ADR and acquisition cost, favoring higher-margin channels.
-3. **Introduce dynamic pricing around high-cancellation periods** — incentivize early, firm bookings during months with historically high cancellation rates.
+1. **Strengthen customer loyalty programs**: over 90% of bookings come from first-time guests; targeted retention offers could improve repeat business.
+2. **Optimize distribution channel investment** : reassess marketing spend across channels based on ADR and acquisition cost, favoring higher-margin channels.
+3. **Introduce dynamic pricing around high-cancellation periods** : incentivize early, firm bookings during months with historically high cancellation rates.
 
 ## Folder Structure
 ```
