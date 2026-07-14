@@ -78,7 +78,7 @@ Rather than reproducing the full report, the Power BI dashboard was scoped aroun
 │   └── preprocesing.ipynb
 |
 ├── data/
-│   └── (raw CSV files)
+│   └── (CSV files)
 └── visualization/
     ├── booking trend.png
     └── dashboard_screenshot.png
