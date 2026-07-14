@@ -67,8 +67,7 @@ Rather than reproducing the full report, the Power BI dashboard was scoped aroun
 ## Folder Structure
 ```
 ├── README.md
-├── report/
-│   └── Hotel_Analysis_Report.pdf
+├── Hotel_Analysis_Report.pdf
 ├── sql/
 │   ├── 1_create_and_load_tables.sql
 │   ├── 2_data_cleaning_and_transform.sql
