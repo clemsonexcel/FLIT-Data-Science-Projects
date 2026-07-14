@@ -56,7 +56,7 @@ Rather than reproducing the full report, the Power BI dashboard was scoped aroun
 - **What broader trends stand out?** Strong seasonality is evident, with higher ADR and bookings aligning with holiday periods.
 - **Are cancellations a major issue?** Yes — City hotels cancel at a notably higher rate than Resort hotels, suggesting flexible booking policies or deposit requirements could help reduce no-shows.
 
-![Power BI Dashboard](images/powerbi_dashboard_screenshot.png)
+![Power BI Dashboard](images/dashboard_screenshot.png)
 *Note: this dashboard reflects a focused subset of the full analysis, scoped for quick executive decision-making rather than comprehensive reporting.*
 
 ## Recommendations
@@ -70,14 +70,16 @@ Rather than reproducing the full report, the Power BI dashboard was scoped aroun
 ├── report/
 │   └── Hotel_Analysis_Report.pdf
 ├── sql/
-│   ├── 01_create_and_load_tables.sql
-│   ├── 02_data_cleaning_and_transformation.sql
-│   └── 03_analysis_queries.sql
+│   ├── 1_create_and_load_tables.sql
+│   ├── 2_data_cleaning_and_transform.sql
+│   └── 3_analysis_queries.sql
 ├── python/
-│   └── hotel_analysis_findings.ipynb
+|   ├── hotel_analysis_findings.ipynb
+│   └── preprocesing.ipynb
+|
 ├── data/
 │   └── (raw CSV files)
-└── images/
-    ├── booking_trend.png
-    └── powerbi_dashboard_screenshot.png
+└── visualization/
+    ├── booking trend.png
+    └── dashboard_screenshot.png
 ```
